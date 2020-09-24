@@ -1,4 +1,4 @@
 # Breast-Cancer-Classify-machine-learning-python
 
 
-Machine Learning modelling with breast cancer dataset
+Machine Learning modelling and prediction of classes with breast cancer dataset
